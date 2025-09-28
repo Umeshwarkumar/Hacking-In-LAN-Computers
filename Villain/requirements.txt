@@ -1,0 +1,4 @@
+gnureadline
+netifaces
+pycryptodome
+pyperclip
